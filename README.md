@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**scaredos/scaredos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Steven (aka scaredos). I'm a software engineer and an IT researcher. I focused on cyber security, web application security, and server administration work. 
+  - Main languages: Python, JavaScript, Go, Dart
+  - Currently Learning: C++
+  - Currently Researching: CloudFlare Anti-DDoS techniques at [cfresearch](https://github.com/scaredos/cfresearch) 
+  - Working on: https://github.com/scaredos/cfresearch
+ 
+Contact Information:
+  - Email: [scared@tuta.io](mailto:scared@tuta.io)
+  - Telegram: [trespassed](https://t.me/trespassed)
+  - Discord: SmallDoink#0666
