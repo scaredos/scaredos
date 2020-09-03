@@ -4,7 +4,6 @@ I'm Steven (aka scaredos). I'm a software engineer and an IT researcher. I focus
   - Main languages: Python, JavaScript, Go, Dart
   - Currently Learning: C++
   - Currently Researching: CloudFlare Anti-DDoS techniques at [cfresearch](https://github.com/scaredos/cfresearch) 
-  - Working on: Client projects
  
 Contact Information:
   - Email: [scared@tuta.io](mailto:scared@tuta.io)
