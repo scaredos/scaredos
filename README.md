@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Steven (aka scaredos). I'm a software engineer and an IT researcher. 
-  - Main languages: Python, JavaScript, Go, Dart
+I'm Steven (aka scaredos). I'm a software engineer and an IT researcher that specializes in DDoS protection.  
+  - Main languages: Python, JavaScript, Go, Dart, Flutter
   - Currently Learning: C++
   - Currently Researching: CloudFlare Anti-DDoS techniques at [cfresearch](https://github.com/scaredos/cfresearch) 
  
