@@ -8,7 +8,7 @@ Hi there 👋
  
 
 Website:
-  - Personal: [scaredos.me](https://scaredos.me/)
+  - Personal: [scaredos.me](https://scaredos.com/)
 
 Contact:
   - Email: [scared@tuta.io](mailto:scared@tuta.io)
