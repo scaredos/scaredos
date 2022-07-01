@@ -3,8 +3,8 @@ Hi there 👋
 ![](https://komarev.com/ghpvc/?username=scaredos&color=blueviolet)
 
 - Software Developer | Student
-- Languages: Python, Go, JavaScript/Node.js, PHP, Vlang
-- Currently Researching: CloudFlare Anti-DDoS techniques at [cfresearch](https://github.com/scaredos/cfresearch) 
+- Languages: Python, Go, JavaScript/Node.js
+- Currently Researching: Bot detection @ [cfresearch](https://github.com/scaredos/cfresearch) 
  
 
 Website:
