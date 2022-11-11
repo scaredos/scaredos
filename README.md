@@ -3,7 +3,7 @@ Hi there 👋
 ![](https://komarev.com/ghpvc/?username=scaredos&color=blueviolet)
 
 - Software Developer | Student
-- Languages: Python, Go, JavaScript/Node.js
+- Languages: Python, Go, JavaScript/Node.js, C++
 - Currently Researching: Bot detection @ [cfresearch](https://github.com/scaredos/cfresearch) 
  
 
