@@ -4,11 +4,10 @@ Hi there 👋
 
 - Software Developer | Student
 - Languages: Python, Go, JavaScript/Node.js, C++
-- Currently Researching: Bot detection @ [cfresearch](https://github.com/scaredos/cfresearch) 
  
 
 Website:
-  - Personal: [scaredos.com](https://scaredos.com/)
+  - Portfolio: [scaredos.com](https://scaredos.com/)
 
 Contact:
   - Email: [scared@tuta.io](mailto:scared@tuta.io)
