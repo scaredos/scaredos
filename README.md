@@ -4,6 +4,7 @@ Hi there 👋
 
 - Software Developer | Student
 - Languages: Python, Go, JavaScript/Node.js, C++
+- Working on [antipirate](https://github.com/scaredos/antipirate) in attempts to help stop digital piracy
  
 
 Website:
