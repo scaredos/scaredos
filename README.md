@@ -4,11 +4,11 @@ Hi there 👋
 
 - Software Developer | Student
 - Languages: Python, Go, JavaScript/Node.js, C++
-- Working on [antipirate](https://github.com/scaredos/antipirate) in attempts to help stop digital piracy
+- Working on [piratedex](https://github.com/scaredos/piratedex) in attempts to help stop digital piracy
  
 
 Website:
-  - Portfolio: [scaredos.com](https://scaredos.com/)
+  - PirateDex: [Coming Soon](#)
 
 Contact:
   - Email: [scared@tuta.io](mailto:scared@tuta.io)
