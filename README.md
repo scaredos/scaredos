@@ -8,7 +8,7 @@ Hi there 👋
  
 
 Website:
-  - PirateDex: [Coming Soon](#)
+  - [PirateDex.org](https://piratedex.org/)
 
 Contact:
   - Email: [scared@tuta.io](mailto:scared@tuta.io)
