@@ -4,6 +4,7 @@ Hi there 👋
 
 - Software Developer | Student
 - Languages: Python, Go, JavaScript/Node.js, C++
+- CompTIA ITF+ & A+ Certified 
 - Working on [piratedex](https://github.com/scaredos/piratedex) in attempts to help stop digital piracy
  
 
