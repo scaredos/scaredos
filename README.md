@@ -2,9 +2,9 @@ Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=scaredos&color=blueviolet)
 
-- Software Developer | Student
+- Software Developer | CS Student
 - Languages: Python, Go, JavaScript/Node.js, C++
-- CompTIA IT Fundamentals+, A+, Network+ Certified
+- CompTIA IT Fundamentals+, A+, Network+
 - Working on [piratedex](https://github.com/scaredos/piratedex)
  
 
