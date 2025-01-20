@@ -2,10 +2,10 @@ Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=scaredos&color=blueviolet)
 
-- Software Developer | CS Student
+- Network Engineer | Cybersecurity Student
 - Languages: Python, Go, JavaScript/Node.js, C++
 - CompTIA IT Fundamentals+, A+, Network+
-- BitTorrent IP Database [piratedex](https://github.com/scaredos/piratedex)
+- BitTorrent IP Database - [piratedex](https://github.com/scaredos/piratedex)
  
 
 Website:
